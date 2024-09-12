@@ -1,6 +1,6 @@
-3_몫구하기 Math.floor
+3_몫 구하기 Math.floor
 
-15_나머지가1이되는수찾기 for if -> while
+15_나머지가 1이 되는 수 찾기 for if -> while
 
 17_Array.from()의 두번째 매개변수
 
